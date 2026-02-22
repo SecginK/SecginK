@@ -17,7 +17,7 @@
 
 ### About Me
 
-Computer Engineering student specializing in the intersection of **Full-Stack Development** and **Artificial Intelligence**. I build scalable web architectures using **Django** and **React**, actively integrating **NLP** models and AI solutions into practical applications. My focus is combining strong backend logic with modern frontend interfaces to create smart, data-driven user experiences.
+Computer Engineering student specializing in the intersection of **Full-Stack Development** and **Artificial Intelligence**. I build scalable web architectures using **Django** and **React**, actively integrating **NLP** models and AI solutions into practical applications. My focus is combining strong backend logic with modern frontend interfaces to create smart, data-driven user experiences. Based in Denizli & İzmir, Türkiye.
 
 - 🔭 I’m currently working on **AI-integrated Web Applications**
 - 🌱 I’m currently learning **Advanced NLP & Machine Learning**
